@@ -38,19 +38,19 @@ Pure Go implementation of BLAKE3 with AVX2 and SSE4.1 acceleration
 
 <img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2Flukechampine.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [lukechampine / **blake3**](https://github.com/lukechampine/blake3)
 
-A pure-Go implementation of the BLAKE3 cryptographic hash function
+An AVX-512 accelerated implementation of the BLAKE3 cryptographic hash function
 
 <img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2Fminio.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [minio / **md5-simd**](https://github.com/minio/md5-simd)
 
 Accelerate aggregated MD5 hashing performance up to 8x for AVX512 and 4x for AVX2. Useful for server applications that need to compute many MD5 sums in parallel.
 
-<img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2Fdgryski.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [dgryski / **go-bloomindex**](https://github.com/dgryski/go-bloomindex)
-
-Bloom-filter based search index
-
 <img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2FFiloSottile.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [FiloSottile / **edwards25519**](https://github.com/FiloSottile/edwards25519)
 
 filippo.io/edwards25519 — A safer, faster, and more powerful low-level edwards25519 Go implementation.
+
+<img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2Fdgryski.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [dgryski / **go-bloomindex**](https://github.com/dgryski/go-bloomindex)
+
+Bloom-filter based search index
 
 <img src="https://images.weserv.nl?fit=cover&h=28&mask=circle&maxage=7d&url=https%3A%2F%2Fgithub.com%2Fphoreproject.png&w=28" width="28" height="28" hspace="4" valign="middle" /> [phoreproject / **bls**](https://github.com/phoreproject/bls)
 
